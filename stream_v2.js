@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	var creampie = "https://www.solidfiles.com/e/";
-	var impregnation = "https://adfoc.us/serve/sitelinks/?id=384580&amp;url=https://";
+	var impregnation = "https://adfoc.us/serve/sitelinks/?id=384580&url=https://";
 	$('a[href^="https://www.solidfiles.com/v/"]').each(function(){ 
 		var Janda = $(this).attr("href"); 
 		var Perawan = Janda.replace("https://www.solidfiles.com/v/", creampie); 
