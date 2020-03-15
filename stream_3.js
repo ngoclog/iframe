@@ -10,7 +10,7 @@ $(document).ready(function(){
 	
 		var vbuka = ' scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"\n'+
 		' src="';
-		var vtutup = '"></iframe>';
+		var vtutup = '" style="width:100%;height:360px;"></iframe>';
 		$('#iframeHolder').html( '<iframe ' + vbuka + ubah  + vtutup );
 	
 	});
