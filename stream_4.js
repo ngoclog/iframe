@@ -14,5 +14,12 @@ $(document).ready(function(){
 		$('#iframeHolder').html( '<iframe ' + vbuka + ubah  + vtutup );
 	
 	});
+	var impregnation = "https://adfoc.us/serve/sitelinks/?id=384580&url=https://";
+	$('a[href^="http://www.solidfiles.com/v/"]').each(function(){ 
+		var Milf = $(this).attr("href"); 
+		var Virgin = Milf.replace("http://", impregnation); 
+		$(this).attr("id", "cum"); 
+		$(this).attr("href", Virgin); 
+	
 	
 });
