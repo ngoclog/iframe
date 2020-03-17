@@ -13,7 +13,7 @@ $(document).ready(function(){
 		' src="';
 		var vtutup = '" style="width:100%;height:360px;"></iframe>';
 		$('#iframeHolder').html( '<iframe ' + vbuka + ubah  + vtutup );
-		document.getElementById("downloadbtn").innerHTML = '<a href="https://adfoc.us/serve/sitelinks/?id=384580&url='+Janda+'">DOWNLOAD</a>';
+		document.getElementById("downloadbtn").innerHTML = '<a href="https://adfoc.us/serve/sitelinks/?id=384580&url='+Janda+'"><img alt="Download" src="https://1.bp.blogspot.com/--P4-hAsQK9U/U1W9v0oQ0yI/AAAAAAAABfU/uGg5Lffp_Es/w104/Download.png"/></a>';
 	});
 	$('a[href^="http://www.solidfiles.com/v/"]').each(function(){ 
 		var Milf = $(this).attr("href"); 
