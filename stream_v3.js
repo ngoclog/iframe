@@ -13,7 +13,7 @@ $(document).ready(function(){
 		' src="';
 		var vtutup = '" style="width:100%;height:360px;"></iframe>';
 		$('#iframeHolder').html( '<iframe ' + vbuka + ubah  + vtutup );
-	
+		document.getElementById("downloadbtn").innerHTML = '<a href="'+Janda+'">DOWNLOAD</a>';
 	});
 	$('a[href^="http://www.solidfiles.com/v/"]').each(function(){ 
 		var Milf = $(this).attr("href"); 
