@@ -20,7 +20,7 @@ $(document).ready(function(){
 		var Virgin = Milf.replace("http://", impregnation); 
 		$(this).attr("id", "cum"); 
 		$(this).attr("href", Virgin); });
-	
+		$(this).attr("style", "display:none;"); 
 });
 
 
