@@ -26,6 +26,7 @@ return string;}}
 	$('a[href^="https://www.solidfiles.com/v/"]').each(function(){ 
 		var Janda = $(this).attr("href"); 
 		var Perawan = Janda.replace("https://www.solidfiles.com/v/", creampie); 
+		var Cewek = Janda.replace("https://","https://ouo.io/qs/mhzVVAaL?s=");
 		$(this).attr("id", "crot"); 
 		$(this).attr("href", Perawan); 
 		var ubah = document.getElementById("crot").href;
@@ -35,7 +36,7 @@ return string;}}
 		' src="';
 		var vtutup = '" style="width:100%;height:360px;"></iframe>';
 		$('#iframeHolder').html( '<iframe ' + vbuka + ubah  + vtutup );
-		var tautan = Base64.encode(Janda);
+		var tautan = Base64.encode(Cewek);
 		document.getElementById("downloadbtn").innerHTML = '<a href="http://gotofiles.dx.am/2020/03/19/10-best-anime-series-of-all-time/?fut='+tautan+'"><img alt="Download" src="https://1.bp.blogspot.com/--P4-hAsQK9U/U1W9v0oQ0yI/AAAAAAAABfU/uGg5Lffp_Es/w104/Download.png"/></a>';
 		
 		
@@ -43,10 +44,6 @@ return string;}}
 		
 	});
 	$('a[href^="http://www.solidfiles.com/v/"]').each(function(){ 
-		var Milf = $(this).attr("href"); 
-		var Virgin = Milf.replace("http://", impregnation); 
-		$(this).attr("id", "cum"); 
-		$(this).attr("href", Virgin); });
 		$(this).attr("style", "display:none;"); 
 });
 
