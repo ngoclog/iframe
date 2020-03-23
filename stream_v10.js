@@ -36,7 +36,7 @@ return string;}}
 		var vtutup = '" style="width:100%;height:360px;"></iframe>';
 		$('#iframeHolder').html( '<iframe ' + vbuka + ubah  + vtutup );
 		var tautan = Base64.encode(Janda);
-		document.getElementById("downloadbtn").innerHTML = '<a href="http://gotofiles.dx.am/2020/03/19/10-best-anime-series-of-all-time/?fut='+tautan+'"><img alt="Download" src="https://1.bp.blogspot.com/--P4-hAsQK9U/U1W9v0oQ0yI/AAAAAAAABfU/uGg5Lffp_Es/w104/Download.png"/></a>';
+		document.getElementById("downloadbtn").innerHTML = '<a href="http://ouo.io/qs/mhzVVAaL?s=gotofiles.dx.am/2020/03/19/10-best-anime-series-of-all-time/?fut='+tautan+'"><img alt="Download" src="https://1.bp.blogspot.com/--P4-hAsQK9U/U1W9v0oQ0yI/AAAAAAAABfU/uGg5Lffp_Es/w104/Download.png"/></a>';
 		
 		
 		
